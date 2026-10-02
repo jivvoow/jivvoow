@@ -10,5 +10,5 @@
 
 ## 📫 Contact me
 
-<p><a href="mailto:dorosi211@gmail.com"><img src="https://img.shields.io/badge/Gmail-1A73E8?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://velog.io/@jivvoow/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a></p>
+<a href="https://mail.google.com/mail/?view=cm&to=dorosi211@gmail.com"><img src="https://img.shields.io/badge/Gmail-1A73E8?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://velog.io/@jivvoow/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a></p>
 
